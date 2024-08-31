@@ -7,3 +7,4 @@
 - Fixed the main-Loader function where the protection where in place originally. Such changes can be found when you read the code for yourself!
 - Offsets working as of: Roblox version - version-6fdcfe060c6440cd
 # Enjoy this source
+- I hereby declare that I am not responsible for the self-leak of this code or for any actions taken using it. All assets and code remain the intellectual property of the creators of the 'Stellar' external. Any use or distribution of this code is done solely at the user's own risk, and I bear no liability for such activities.

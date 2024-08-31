@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\integ.h.obj",
+            "outputs": [
+                "C:\\Users\\santo\\Desktop\\stfix\\stellar\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\santo\\Desktop\\stfix\\stellar\\x64\\Debug\\integ.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "src\\protection\\integ.h",
+                    "source-path": "c:\\users\\santo\\desktop\\stfix\\stellar\\src\\protection\\integ.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

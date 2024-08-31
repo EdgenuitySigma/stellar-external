@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "D:\\Coding\\Cracked cheats\\Steller Source\\output\\intermediate\\integ.h.obj",
+            "outputs": [
+                "D:\\Coding\\Cracked cheats\\Steller Source\\output\\intermediate\\vc143.pdb",
+                "D:\\Coding\\Cracked cheats\\Steller Source\\output\\intermediate\\",
+                "D:\\Coding\\Cracked cheats\\Steller Source\\output\\intermediate\\integ.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "src\\protection\\integ.h",
+                    "source-path": "d:\\coding\\cracked cheats\\steller source\\stellar\\src\\protection\\integ.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

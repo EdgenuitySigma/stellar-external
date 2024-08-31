@@ -1,0 +1,241 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: Two or more files with the name of main.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are src\main.cpp, src\protection\protect_x\main.cpp.
+  Scanning sources for module dependencies...
+  detours.cpp
+  esp.cpp
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(26,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(34,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(38,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(45,39): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(47,40): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(49,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(43,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(45,51): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(47,52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(49,53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(54,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(58,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(79,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(81,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(10,15): warning C4091: 'static ': ignored on left of 'Vector4' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(14,15): warning C4091: 'static ': ignored on left of 'Vector3' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(18,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(22,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(75,15): warning C4091: 'static ': ignored on left of 'Vector2' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(87,15): warning C4091: 'static ': ignored on left of 'Matrix4' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(91,15): warning C4091: 'static ': ignored on left of 'Matrix3' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(96,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(100,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(144,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244: 'return': conversion from 'T' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:         with
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:         [
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:             T=int
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:         ]
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\keybind.hpp(182,17): warning C4091: 'static ': ignored on left of 'CKeybind::c_keybind_type' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\world.hpp(23,15): warning C4091: 'static ': ignored on left of 'wts_ret' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\world.hpp(66,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\world.hpp(69,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\cheat\features\esp\esp.cpp(20,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\cheat\features\esp\esp.cpp(20,54): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\cheat\features\esp\esp.cpp(20,38): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  triggerbot.cpp
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(26,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(34,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(38,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(45,39): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(47,40): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(49,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(43,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(45,51): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(47,52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(49,53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(54,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(58,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(79,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(81,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(10,15): warning C4091: 'static ': ignored on left of 'Vector4' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(14,15): warning C4091: 'static ': ignored on left of 'Vector3' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(18,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(22,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(75,15): warning C4091: 'static ': ignored on left of 'Vector2' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(87,15): warning C4091: 'static ': ignored on left of 'Matrix4' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(91,15): warning C4091: 'static ': ignored on left of 'Matrix3' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(96,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(100,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(144,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244: 'return': conversion from 'T' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:         with
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:         [
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:             T=int
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:         ]
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\keybind.hpp(182,17): warning C4091: 'static ': ignored on left of 'CKeybind::c_keybind_type' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\world.hpp(23,15): warning C4091: 'static ': ignored on left of 'wts_ret' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\world.hpp(66,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\world.hpp(69,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  drv_image.cpp
+  stellar.cpp
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(26,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(34,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(38,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(45,39): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(47,40): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(49,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(43,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(45,51): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(47,52): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(49,53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(54,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(58,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(79,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\tween.hpp(81,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(10,15): warning C4091: 'static ': ignored on left of 'Vector4' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(14,15): warning C4091: 'static ': ignored on left of 'Vector3' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(18,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(22,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(75,15): warning C4091: 'static ': ignored on left of 'Vector2' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(87,15): warning C4091: 'static ': ignored on left of 'Matrix4' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(91,15): warning C4091: 'static ': ignored on left of 'Matrix3' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(96,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(100,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\math.hpp(144,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244: 'return': conversion from 'T' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:         with
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:         [
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:             T=int
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\int_value.hpp(11,19): warning C4244:         ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(66,9): warning C4005: 'STATUS_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(223,9): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(246,9): warning C4005: 'STATUS_USER_APC': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(282,9): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(291,9): warning C4005: 'STATUS_PENDING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(747,9): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(756,9): warning C4005: 'DBG_CONTINUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(831,9): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(994,9): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1332,9): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1350,9): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1359,9): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1368,9): warning C4005: 'DBG_CONTROL_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1377,9): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1386,9): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1395,9): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1404,9): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1413,9): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1445,9): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1456,9): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1467,9): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1478,9): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1781,9): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1808,9): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1923,9): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2090,9): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2099,9): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2117,9): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2162,9): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2262,9): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2319,9): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2400,9): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2409,9): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3342,9): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3352,9): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3362,9): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3372,9): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3382,9): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3392,9): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3402,9): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3412,9): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3422,9): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3432,9): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3442,9): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4388,9): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4905,9): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4934,9): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4944,9): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4954,9): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(5032,9): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(6029,9): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7623,9): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7633,9): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7765,9): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8748,9): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8976,9): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9103,9): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9166,9): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10075,9): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10808,9): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10817,9): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(11129,9): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(15048,9): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(15057,9): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\driver\util\util.hpp(45,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\driver\util\util.hpp(206,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\driver\util\util.hpp(217,23): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\driver\loadup.hpp(127,18): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\driver\physmeme\physmeme.hpp(55,39): warning C4838: conversion from 'size_t' to 'unsigned long' requires a narrowing conversion
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\driver\physmeme\physmeme.hpp(55,39): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\keybind.hpp(182,17): warning C4091: 'static ': ignored on left of 'CKeybind::c_keybind_type' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\world.hpp(23,15): warning C4091: 'static ': ignored on left of 'wts_ret' when no variable is declared
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\world.hpp(66,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\helpers\world.hpp(69,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Users\santo\Desktop\stfix\stellar\src\libraries\SDK\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  Generating Code...
+C:\Users\santo\Desktop\stfix\stellar\src\stellar\wrappers\player.hpp(65,1): warning C4715: 'Bones::operator[]': not all control paths return a value
+x64\Debug\main.obj : warning LNK4042: object specified more than once; extras ignored
+freetype.lib(ftbase.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbase.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftinit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftinit.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftsynth.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftsynth.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftsystem.obj)' or at ''; linking object as if no debug info
+freetype.lib(autofit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(autofit.obj)' or at ''; linking object as if no debug info
+freetype.lib(truetype.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(truetype.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1.obj)' or at ''; linking object as if no debug info
+freetype.lib(cff.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(cff.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1cid.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1cid.obj)' or at ''; linking object as if no debug info
+freetype.lib(pfr.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pfr.obj)' or at ''; linking object as if no debug info
+freetype.lib(type42.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type42.obj)' or at ''; linking object as if no debug info
+freetype.lib(winfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(winfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(pcf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pcf.obj)' or at ''; linking object as if no debug info
+freetype.lib(bdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(bdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(psaux.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psaux.obj)' or at ''; linking object as if no debug info
+freetype.lib(psmodule.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psmodule.obj)' or at ''; linking object as if no debug info
+freetype.lib(pshinter.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pshinter.obj)' or at ''; linking object as if no debug info
+freetype.lib(sfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(smooth.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(smooth.obj)' or at ''; linking object as if no debug info
+freetype.lib(raster.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(raster.obj)' or at ''; linking object as if no debug info
+freetype.lib(sdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(svg.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(svg.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbitmap.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftgzip.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftlzw.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftdebug.obj)' or at ''; linking object as if no debug info
+library_x64.lib(auth.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+library_x64.lib(auth.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in main.obj
+library_x64.lib(utils.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+library_x64.lib(utils.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MTd_StaticDebug' in main.obj
+LINK : fatal error LNK1104: cannot open file 'VMProtectSDK64.lib'
